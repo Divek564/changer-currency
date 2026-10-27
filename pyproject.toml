@@ -1,0 +1,9 @@
+
+[project]
+name = "st-course"
+version = "0.1.0"
+description = "My Streamlit app"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit"
+]
